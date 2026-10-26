@@ -53,10 +53,23 @@
                 <a href="https://www.instagram.com/"  class="text-light me-3"><i class="bi bi-instagram"></i>Instagram | BellaNapoliHN</a>
                 <a href="https://www.tiktok.com/"  class="text-light me-3"><i class="bi bi-tiktok"></i>Tiktok | BellaNapoliHN</a>
             </div>
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-6">
+                    <h2 class="h4 fw-bold"><i class="bi bi-fire text-warning"></i> Bella Napoli</h2>
+                    <p class="text-white-50">Sabores italianos, pizzas para compartir y momentos para recordar</p>
+                </div>
+                <div class="col-md-6 col-lg-6">
+                    <h3 class="h5 fw-bold">Horario de atención</h3>
+                    <p class="text-white-50 mb-2"><i class="bi bi-clock"></i> Lunes a domingo</p>
+                    <p>11:00 a. m. – 10:00 p. m.</p>
+                    <p class="text-white-50 mb-0"><i class="bi bi-geo-alt"></i> Honduras</p>
+                </div>
+            </div>
             <div class="text-center">
                 <p class="mb-2">&copy;2026 Bella Napoli. Todos los derechos reservdos</p>
-                <p class="mb-2">Elaboramos cadda pizza con pasion y los mejores ingredientes</p>
+                <p class="mb-2">Pasion por la Pizzs</p>
             </div>
+            
             
         </div>
     </footer>
