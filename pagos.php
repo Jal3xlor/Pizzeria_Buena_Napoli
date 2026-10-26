@@ -180,10 +180,10 @@ endif;
         <div class="container">
             <a href="index.php" class="navbar-brand  fw-bold">Bella Napoli</a>
         
-            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu-principal" aria-controls="menu-principa" aria-expanded="false" aria-label="Abrir menu">
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu-principal" aria-controls="menu-principal" aria-expanded="false" aria-label="Abrir menu">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div id="menu-nav" class="collapse navbar-collapse">
+            <div id="menu-principal" class="collapse navbar-collapse">
                 <ul class="navbar-nav ms-auto align-items-center ">
                     <li class="nav-item"><a href="index.php" class="nav-link px-3">Inicio</a></li>
                     <li class="nav-item"><a href="menu.php" class="nav-link px-3">Nuestro Menu</a></li>
